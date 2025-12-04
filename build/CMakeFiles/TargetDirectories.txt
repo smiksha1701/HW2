@@ -1,0 +1,9 @@
+/home/smiksha/hw2/build/CMakeFiles/intrinsics_gen.dir
+/home/smiksha/hw2/build/CMakeFiles/omp_gen.dir
+/home/smiksha/hw2/build/CMakeFiles/acc_gen.dir
+/home/smiksha/hw2/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/smiksha/hw2/build/CMakeFiles/clang-tablegen-targets.dir
+/home/smiksha/hw2/build/CMakeFiles/FunctionFinder.dir
+/home/smiksha/hw2/build/CMakeFiles/StrengthReducer.dir
+/home/smiksha/hw2/build/CMakeFiles/edit_cache.dir
+/home/smiksha/hw2/build/CMakeFiles/rebuild_cache.dir

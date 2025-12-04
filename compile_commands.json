@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/smiksha/hw2",
+    "command": "/usr/bin/c++ -std=c++17 -stdlib=libstdc++ -o test.o -c test.cpp",
+    "file": "test.cpp"
+  },
+  {
+    "directory": "/home/smiksha/hw2",
+    "command": "/usr/bin/c++ -std=c++17 -stdlib=libstdc++ -o test_transform.o -c test_transform.cpp",
+    "file": "test_transform.cpp"
+  }
+]
